@@ -3,5 +3,5 @@ package mokPacket
 import "fmt"
 
 func Write() {
-	fmt.Println("hello! my first packet")
+	fmt.Println("think xian jie ,30 days")
 }
